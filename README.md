@@ -7,3 +7,11 @@ The dataset aims to provide a useful resource for medical researchers, healthcar
 
 To read the complete analysis visit https://ajay333a.quarto.pub/ajay333a/posts/meds_analysis/Medicines_usage_sideeffects.html
 
+The analysis is dine in various steps
+
+1. Importing libraries
+2. Importing data
+3. Cleaning the data
+4. Data manipulation
+5. Visulisation with `ggplot2`
+6. Finding answers to specific questions
